@@ -1,0 +1,9 @@
+{
+  "name": "evidence",
+  "version": "0.1.0",
+  "description": "Capture screenshots from the Windows clipboard (or an image file) into an immutable staged copy, confirm them, and attach them to implementation steps with a hash-checked evidence trail. Local only.",
+  "author": { "name": "VARO Industries" },
+  "repository": "https://github.com/VAROIndustries/ClaudeEvidence",
+  "license": "MIT",
+  "keywords": ["evidence", "screenshots", "documentation", "windows"]
+}
